@@ -33,4 +33,4 @@ This Python script provides functionalities to encrypt and decrypt images using 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/PRODIGY_CS_02.git
+   git clone https://github.com/anuraag696/PRODIGY_CS_02.git
